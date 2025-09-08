@@ -1,5 +1,8 @@
 // Your Name
 // Date
+// Jump Animation 
+// Practice simulating gravity and using keyboard input
+
 let pX = 300;
 let pY = 350;
 
